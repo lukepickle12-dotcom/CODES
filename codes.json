@@ -1,0 +1,14 @@
+{
+  "codes": [
+    {
+      "name": "FREECOINS",
+      "reward": 1000,
+      "active": true
+    },
+    {
+      "name": "HERO2026",
+      "reward": 500,
+      "active": false
+    }
+  ]
+}
