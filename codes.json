@@ -1,10 +1,8 @@
 {
-  "WELCOME100": {
-    "reward": "Moonstones",
-    "amount": 1000
+  "TVL2RELEASED": {
+    "Moonstones": 1000
   },
-  "FREE500": {
-    "reward": "MysticCoins",
-    "amount": 500
-  }
+  "HXNTERATE": {
+    "MysticCoins": 5000
+  },
 }
