@@ -1,14 +1,10 @@
 {
-  "codes": [
-    {
-      "name": "FREECOINS",
-      "reward": 1000,
-      "active": true
-    },
-    {
-      "name": "HERO2026",
-      "reward": 500,
-      "active": false
-    }
-  ]
+  "WELCOME100": {
+    "reward": "Moonstones",
+    "amount": 1000
+  },
+  "FREE500": {
+    "reward": "MysticCoins",
+    "amount": 500
+  }
 }
