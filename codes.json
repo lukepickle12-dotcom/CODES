@@ -1,5 +1,8 @@
 {
-  "250COINS": {
+  "500MOONSTONES": {
+    "MoonStones": 500
+  },
+  "250COIN": {
     "MysticCoins": 250
   }
 }
